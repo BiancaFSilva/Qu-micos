@@ -1,5 +1,6 @@
 # Químicos
-Site desenvolvido como complemento curricular para a matéria de Química.
+
+Você pode acessar o site [aqui](https://biancafsilva.github.io/Quimicos/index.html)
 
 ### Tema
   - Svante August Arrhenius
@@ -10,6 +11,9 @@ Site desenvolvido como complemento curricular para a matéria de Química.
   - CSS
   - JavaScript 
   - Bootstrap 
+  
+### Objetivo 
+ Site desenvolvido para fins educacionais
 
 ### Template
  Template Name: Imperial <br>
