@@ -1,8 +1,9 @@
 # Químicos
 Site desenvolvido como complemento curricular para a matéria de Química.
 
-## Svante August Arrhenius
-## Lorenzo Romano Amedeo Carlo Avogadro 
+### Tema
+  - Svante August Arrhenius
+  - Lorenzo Romano Amedeo Carlo Avogadro 
 
 ### Tecnologias
   - HTML5
