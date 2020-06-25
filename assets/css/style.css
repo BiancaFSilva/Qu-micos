@@ -350,7 +350,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 15px;
   z-index: 9999;
   overflow-y: auto;
-  background: #fff;
+  background: rgba(53, 39, 90, 0.85);
   transition: ease-in-out 0.2s;
   opacity: 0;
   visibility: hidden;
@@ -367,14 +367,14 @@ h1, h2, h3, h4, h5, h6 {
 .mobile-nav a {
   display: block;
   position: relative;
-  color: #333333;
+  color: #ffffff;
   padding: 10px 20px;
   font-weight: 500;
   outline: none;
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #03C4EB;
+  color: #00d5ff;
   text-decoration: none;
 }
 
@@ -446,7 +446,7 @@ h1, h2, h3, h4, h5, h6 {
 .section-title-divider {
   width: 50px;
   height: 3px;
-  background: #03C4EB;
+  background: #00d5ff;
   margin: 0 auto;
   margin-bottom: 20px;
 }
@@ -772,6 +772,7 @@ h1, h2, h3, h4, h5, h6 {
 #contact .info p {
   padding: 0 0 10px 50px;
   line-height: 24px;
+  
 }
 
 @-webkit-keyframes animate-loading {
